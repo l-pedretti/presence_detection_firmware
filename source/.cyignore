@@ -1,0 +1,2 @@
+$(SEARCH_aws-iot-device-sdk-embedded-C)/libraries/standard/coreHTTP
+tools/
